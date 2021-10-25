@@ -88,6 +88,5 @@ public class TodoDTO {
 		UpdatedAt = updatedAt;
 	}
 	
-	
 
 }
